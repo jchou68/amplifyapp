@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/amplifyapp/precache-manifest.e80bf590199ef5451a56131f31a9d833.js"
+  "/amplifyapp/precache-manifest.13a7d3516c49395c5dc610dfa2ecc317.js"
 );
 
 workbox.clientsClaim();

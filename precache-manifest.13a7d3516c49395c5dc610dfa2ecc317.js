@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/amplifyapp/static/js/runtime~main.92e76797.js"
   },
   {
-    "revision": "f73a8a47b730e54c6bf4834d4650fba5",
+    "revision": "4fc6a220e46ea5c14d1be53658fd1517",
     "url": "/amplifyapp/index.html"
   }
 ];
